@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhomyuldoshev&label=Profile%20views&color=0e75b6&style=flat" alt="ilhomyuldoshev" /> </p>
 
-- telegram: [https://t.me/YuldoshevIlhom](YuldoshevIlhom)
+- telegram: [YuldoshevIlhom]((https://t.me/YuldoshevIlhom))
 
 - email: **ilhom6694@gmail.com**
 
